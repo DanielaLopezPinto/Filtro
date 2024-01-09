@@ -1,0 +1,55 @@
+{
+    "1": {
+        "Documento": 1,
+        "NodeJS": {
+            "Fundamentos Programacion": [
+                "Introducion algoritmia",
+                "PSeInt",
+                "Python"
+            ],
+            "Programacion Web": "JavaScript",
+            "Programacion formal": [],
+            "Bases de datos": {
+                "Principal": "MongoDb",
+                "Alternativo": "Mysql"
+            },
+            "Backend": "NodeJS y Express"
+        },
+        "Java": {
+            "Fundamentos Programacion": [
+                "Introducion algoritmia",
+                "PSeInt",
+                "Python"
+            ],
+            "Programacion Web": [
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ],
+            "Programacion formal": [],
+            "Bases de datos": {
+                "Principal": [],
+                "Alternativo": []
+            },
+            "Backend": []
+        },
+        "NetCore": {
+            "Fundamentos Programacion": [
+                "Introducion algoritmia",
+                "PSeInt",
+                "Python"
+            ],
+            "Programacion Web": [
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ],
+            "Programacion formal": [],
+            "Bases de datos": {
+                "Principal": [],
+                "Alternativo": []
+            },
+            "Backend": []
+        }
+    }
+}

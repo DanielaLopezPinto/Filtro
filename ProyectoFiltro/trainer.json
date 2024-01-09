@@ -1,0 +1,12 @@
+{
+    "1": {
+        "Documento": 1,
+        "Nombre": "sad",
+        "Apellido": "sdf",
+        "Horario": {
+            "1": "6:00 am a 9:30 am",
+            "Opcional": "2:00 pm a 5:30 pm"
+        },
+        "Ruta": "Ruta Java"
+    }
+}

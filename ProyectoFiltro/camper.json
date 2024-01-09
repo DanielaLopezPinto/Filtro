@@ -1,0 +1,15 @@
+{
+    "1": {
+        "Documento": 1,
+        "Nombre": "Dani",
+        "Apellido": "Lopez",
+        "Direccion": "calle c",
+        "Acudiente": [],
+        "Telefonos": [
+            {
+                "Celular": "317"
+            }
+        ],
+        "Estado": "Inscrito"
+    }
+}

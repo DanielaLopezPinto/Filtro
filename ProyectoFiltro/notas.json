@@ -1,0 +1,10 @@
+{
+    "1": {
+        "Documento": 1,
+        "Notas": {
+            "Teorica": 80,
+            "Practica": 90,
+            "Promedio": 85.0
+        }
+    }
+}
